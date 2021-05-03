@@ -1,7 +1,7 @@
 # from-scrapy-to-mongodb
 
 # Description
-The program does a simply which pulls data from "https://http://books.toscrape.com" and loads them into MongoDB</br>
+The program does a simple job which pulls data from "https://http://books.toscrape.com" and loads them into MongoDB</br>
 Extract (from website), Transform & Load (to MongoDB).
 
 # Installation
